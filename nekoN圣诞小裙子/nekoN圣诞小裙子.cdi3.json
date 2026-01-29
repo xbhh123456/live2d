@@ -1,0 +1,415 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "tip",
+			"GroupId": "",
+			"Name": "本模型由bilibli 路过的猫窝 免费发布"
+		},
+		{
+			"Id": "catnetButton1",
+			"GroupId": "ParamGroup6",
+			"Name": "脖子隐藏"
+		},
+		{
+			"Id": "catnetButton2",
+			"GroupId": "ParamGroup6",
+			"Name": "袖子隐藏"
+		},
+		{
+			"Id": "catnetButton3",
+			"GroupId": "ParamGroup6",
+			"Name": "腿部隐藏"
+		},
+		{
+			"Id": "catnetButton4",
+			"GroupId": "ParamGroup6",
+			"Name": "领子宽度"
+		},
+		{
+			"Id": "test",
+			"GroupId": "ParamGroup",
+			"Name": "test"
+		},
+		{
+			"Id": "syBoingX",
+			"GroupId": "ParamGroup",
+			"Name": "胸x1"
+		},
+		{
+			"Id": "syBoingX2",
+			"GroupId": "ParamGroup",
+			"Name": "胸x2"
+		},
+		{
+			"Id": "syBoingY",
+			"GroupId": "ParamGroup",
+			"Name": "胸y1"
+		},
+		{
+			"Id": "syBoingY2",
+			"GroupId": "ParamGroup",
+			"Name": "胸y2"
+		},
+		{
+			"Id": "syBodyDecorationsX1",
+			"GroupId": "ParamGroup",
+			"Name": "身体饰品物理1X"
+		},
+		{
+			"Id": "syBodyDecorationsY1",
+			"GroupId": "ParamGroup",
+			"Name": "身体饰品物理1Y"
+		},
+		{
+			"Id": "syBodyClothes3",
+			"GroupId": "ParamGroup",
+			"Name": "裙子"
+		},
+		{
+			"Id": "syBodyClothes1",
+			"GroupId": "ParamGroup",
+			"Name": "衣服物理1"
+		},
+		{
+			"Id": "syBodyClothes2",
+			"GroupId": "ParamGroup",
+			"Name": "衣服物理2"
+		},
+		{
+			"Id": "syBodyClothes4",
+			"GroupId": "ParamGroup",
+			"Name": "衣服物理3"
+		},
+		{
+			"Id": "syBodyClothes7",
+			"GroupId": "ParamGroup",
+			"Name": "衣服物理L1"
+		},
+		{
+			"Id": "syBodyClothes8",
+			"GroupId": "ParamGroup",
+			"Name": "衣服物理L2"
+		},
+		{
+			"Id": "syBodyClothes9",
+			"GroupId": "ParamGroup",
+			"Name": "衣服物理L3"
+		},
+		{
+			"Id": "syBodyClothes10",
+			"GroupId": "ParamGroup",
+			"Name": "衣服中物理1"
+		},
+		{
+			"Id": "syBodyClothes11",
+			"GroupId": "ParamGroup",
+			"Name": "衣服中物理2"
+		},
+		{
+			"Id": "syBodyClothes12",
+			"GroupId": "ParamGroup",
+			"Name": "衣服中物理3"
+		},
+		{
+			"Id": "syHand1R",
+			"GroupId": "ParamGroup32",
+			"Name": "右上臂旋转"
+		},
+		{
+			"Id": "syHand2R",
+			"GroupId": "ParamGroup32",
+			"Name": "右小臂旋转"
+		},
+		{
+			"Id": "syHand3R",
+			"GroupId": "ParamGroup32",
+			"Name": "右手腕旋转"
+		},
+		{
+			"Id": "syHand4R",
+			"GroupId": "ParamGroup32",
+			"Name": "右手手指运动"
+		},
+		{
+			"Id": "syHand5R",
+			"GroupId": "ParamGroup32",
+			"Name": "右手其他"
+		},
+		{
+			"Id": "syHand1L",
+			"GroupId": "ParamGroup32",
+			"Name": "左上臂旋转"
+		},
+		{
+			"Id": "syHand2L",
+			"GroupId": "ParamGroup32",
+			"Name": "左小臂旋转"
+		},
+		{
+			"Id": "syHand3L",
+			"GroupId": "ParamGroup32",
+			"Name": "左手腕旋转"
+		},
+		{
+			"Id": "syHand4L",
+			"GroupId": "ParamGroup32",
+			"Name": "左手手指运动"
+		},
+		{
+			"Id": "syHand5L",
+			"GroupId": "ParamGroup32",
+			"Name": "左手其他"
+		},
+		{
+			"Id": "Param2",
+			"GroupId": "ParamGroup32",
+			"Name": "晃动"
+		},
+		{
+			"Id": "ParamAngleX",
+			"GroupId": "ParamGroup4",
+			"Name": "角度 X"
+		},
+		{
+			"Id": "ParamAngleY",
+			"GroupId": "ParamGroup4",
+			"Name": "角度 Y"
+		},
+		{
+			"Id": "ParamAngleZ",
+			"GroupId": "ParamGroup4",
+			"Name": "角度 Z"
+		},
+		{
+			"Id": "ParamBodyAngleY2",
+			"GroupId": "ParamGroup4",
+			"Name": "身体旋转　Y2"
+		},
+		{
+			"Id": "ParamBodyAngleX",
+			"GroupId": "ParamGroup4",
+			"Name": "身体旋转　X"
+		},
+		{
+			"Id": "ParamBodyAngleZ",
+			"GroupId": "ParamGroup4",
+			"Name": "身体旋转　Z"
+		},
+		{
+			"Id": "ParamBodyAngleY",
+			"GroupId": "ParamGroup4",
+			"Name": "身体旋转　Y"
+		},
+		{
+			"Id": "ParamBodyAngleX2",
+			"GroupId": "ParamGroup4",
+			"Name": "身体旋转　X2"
+		},
+		{
+			"Id": "ParamBodyAngleZ2",
+			"GroupId": "ParamGroup4",
+			"Name": "身体旋转　Z2"
+		},
+		{
+			"Id": "ParamBreath",
+			"GroupId": "ParamGroup7",
+			"Name": "呼吸"
+		},
+		{
+			"Id": "Param_Angle_Rotation_1_ArtMesh574",
+			"GroupId": "ParamGroup2",
+			"Name": "[0]丝带"
+		},
+		{
+			"Id": "Param_Angle_Rotation_2_ArtMesh574",
+			"GroupId": "ParamGroup2",
+			"Name": "[1]丝带"
+		},
+		{
+			"Id": "Param_Angle_Rotation_3_ArtMesh574",
+			"GroupId": "ParamGroup2",
+			"Name": "[2]丝带"
+		},
+		{
+			"Id": "Param_Angle_Rotation_4_ArtMesh574",
+			"GroupId": "ParamGroup2",
+			"Name": "[3]丝带"
+		},
+		{
+			"Id": "Param_Angle_Rotation_5_ArtMesh574",
+			"GroupId": "ParamGroup2",
+			"Name": "[4]丝带"
+		},
+		{
+			"Id": "Param_Angle_Rotation_1_ArtMesh567",
+			"GroupId": "ParamGroup3",
+			"Name": "[0]丝带"
+		},
+		{
+			"Id": "Param_Angle_Rotation_2_ArtMesh567",
+			"GroupId": "ParamGroup3",
+			"Name": "[1]丝带"
+		},
+		{
+			"Id": "Param_Angle_Rotation_3_ArtMesh567",
+			"GroupId": "ParamGroup3",
+			"Name": "[2]丝带"
+		},
+		{
+			"Id": "Param_Angle_Rotation_4_ArtMesh567",
+			"GroupId": "ParamGroup3",
+			"Name": "[3]丝带"
+		},
+		{
+			"Id": "Param_Angle_Rotation_5_ArtMesh567",
+			"GroupId": "ParamGroup3",
+			"Name": "[4]丝带"
+		}
+	],
+	"ParameterGroups": [
+		{
+			"Id": "ParamGroup6",
+			"GroupId": "",
+			"Name": "按键表情button"
+		},
+		{
+			"Id": "ParamGroup",
+			"GroupId": "",
+			"Name": "常用物理"
+		},
+		{
+			"Id": "ParamGroup32",
+			"GroupId": "",
+			"Name": "手捕"
+		},
+		{
+			"Id": "ParamGroup4",
+			"GroupId": "",
+			"Name": "九轴"
+		},
+		{
+			"Id": "ParamGroup7",
+			"GroupId": "",
+			"Name": "嘴巴相关"
+		},
+		{
+			"Id": "ParamGroup2",
+			"GroupId": "",
+			"Name": "丝带"
+		},
+		{
+			"Id": "ParamGroup3",
+			"GroupId": "",
+			"Name": "丝带"
+		}
+	],
+	"Parts": [
+		{
+			"Id": "Part120",
+			"Name": "圣诞衣服.psd"
+		},
+		{
+			"Id": "Part101",
+			"Name": "图层组2"
+		},
+		{
+			"Id": "Part116",
+			"Name": "腿"
+		},
+		{
+			"Id": "Part119",
+			"Name": "手"
+		},
+		{
+			"Id": "Part102",
+			"Name": "领子"
+		},
+		{
+			"Id": "Part103",
+			"Name": "腰"
+		},
+		{
+			"Id": "Part107",
+			"Name": "上衣"
+		},
+		{
+			"Id": "Part112",
+			"Name": "内"
+		},
+		{
+			"Id": "Part113",
+			"Name": "侧裙"
+		},
+		{
+			"Id": "Part114",
+			"Name": "裙子"
+		},
+		{
+			"Id": "Part117",
+			"Name": "鞋子 毛球"
+		},
+		{
+			"Id": "Part118",
+			"Name": "鞋子"
+		},
+		{
+			"Id": "Part104",
+			"Name": "腰彩带"
+		},
+		{
+			"Id": "Part105",
+			"Name": "腰"
+		},
+		{
+			"Id": "Part106",
+			"Name": "铃铛"
+		},
+		{
+			"Id": "Part108",
+			"Name": "外"
+		},
+		{
+			"Id": "Part115",
+			"Name": "褶子"
+		},
+		{
+			"Id": "Part109",
+			"Name": "胸前绳"
+		},
+		{
+			"Id": "Part110",
+			"Name": "右"
+		},
+		{
+			"Id": "Part111",
+			"Name": "左"
+		},
+		{
+			"Id": "Part122",
+			"Name": "带子"
+		},
+		{
+			"Id": "ArtMesh574_Skinning",
+			"Name": "丝带(蒙皮)"
+		},
+		{
+			"Id": "Part",
+			"Name": "丝带(旋转)"
+		},
+		{
+			"Id": "ArtMesh567_Skinning",
+			"Name": "丝带(蒙皮)"
+		},
+		{
+			"Id": "Part2",
+			"Name": "丝带(旋转)"
+		}
+	],
+	"CombinedParameters": [
+		[
+			"syBoingX",
+			"syBoingX2"
+		]
+	]
+}

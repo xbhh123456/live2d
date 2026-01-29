@@ -1,0 +1,50 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "nekoN圣诞小裙子.moc3",
+		"Textures": [
+			"nekoN圣诞小裙子.4096/texture_00.png",
+			"nekoN圣诞小裙子.4096/texture_01.png"
+		],
+		"Physics": "nekoN圣诞小裙子.physics3.json",
+		"DisplayInfo": "nekoN圣诞小裙子.cdi3.json",
+		"Expressions": [
+			{
+				"Name": "一键取消.exp3",
+				"File": "expressions/一键取消.exp3.json"
+			},
+			{
+				"Name": "脖子隐藏.exp3",
+				"File": "expressions/脖子隐藏.exp3.json"
+			},
+			{
+				"Name": "腿部隐藏.exp3",
+				"File": "expressions/腿部隐藏.exp3.json"
+			},
+			{
+				"Name": "袖子隐藏.exp3",
+				"File": "expressions/袖子隐藏.exp3.json"
+			},
+			{
+				"Name": "铃铛物理小（防止剧烈运动导致穿模）.exp3",
+				"File": "expressions/铃铛物理小（防止剧烈运动导致穿模）.exp3.json"
+			},
+			{
+				"Name": "领子宽度.exp3",
+				"File": "expressions/领子宽度.exp3.json"
+			}
+		]
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		}
+	]
+}

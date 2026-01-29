@@ -1,0 +1,25 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "小鱼干.moc3",
+		"Textures": [
+			"小鱼干.8192/texture_00.png",
+			"小鱼干.8192/texture_01.png",
+			"小鱼干.8192/texture_02.png"
+		],
+		"Physics": "小鱼干.physics3.json",
+		"DisplayInfo": "小鱼干.cdi3.json"
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		}
+	]
+}

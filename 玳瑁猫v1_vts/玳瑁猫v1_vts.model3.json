@@ -1,0 +1,157 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "玳瑁猫v1_vts.moc3",
+		"Textures": [
+			"玳瑁猫v1_vts.4096/texture_00.png",
+			"玳瑁猫v1_vts.4096/texture_01.png",
+			"玳瑁猫v1_vts.4096/texture_02.png",
+			"玳瑁猫v1_vts.4096/texture_03.png",
+			"玳瑁猫v1_vts.4096/texture_04.png",
+			"玳瑁猫v1_vts.4096/texture_05.png",
+			"玳瑁猫v1_vts.4096/texture_06.png",
+			"玳瑁猫v1_vts.4096/texture_07.png",
+			"玳瑁猫v1_vts.4096/texture_08.png",
+			"玳瑁猫v1_vts.4096/texture_09.png",
+			"玳瑁猫v1_vts.4096/texture_10.png",
+			"玳瑁猫v1_vts.4096/texture_11.png",
+			"玳瑁猫v1_vts.4096/texture_12.png"
+		],
+		"Physics": "玳瑁猫v1_vts.physics3.json",
+		"DisplayInfo": "玳瑁猫v1_vts.cdi3.json",
+		"Motions": {
+			"Idle": [
+				{
+					"File": "IDLE.motion3.json"
+				},
+				{
+					"File": "呆毛旋转.motion3.json"
+				},
+				{
+					"File": "害怕.motion3.json"
+				}
+			]
+		},
+		"Expressions": [
+			{
+				"Name": "伤心.exp3",
+				"File": "expressions/伤心.exp3.json"
+			},
+			{
+				"Name": "关闭提示.exp3",
+				"File": "expressions/关闭提示.exp3.json"
+			},
+			{
+				"Name": "兽耳隐藏.exp3",
+				"File": "expressions/兽耳隐藏.exp3.json"
+			},
+			{
+				"Name": "发卡1.exp3",
+				"File": "expressions/发卡1.exp3.json"
+			},
+			{
+				"Name": "发卡2.exp3",
+				"File": "expressions/发卡2.exp3.json"
+			},
+			{
+				"Name": "发卡3.exp3",
+				"File": "expressions/发卡3.exp3.json"
+			},
+			{
+				"Name": "发卡4.exp3",
+				"File": "expressions/发卡4.exp3.json"
+			},
+			{
+				"Name": "呆呆脸.exp3",
+				"File": "expressions/呆呆脸.exp3.json"
+			},
+			{
+				"Name": "外套开关.exp3",
+				"File": "expressions/外套开关.exp3.json"
+			},
+			{
+				"Name": "尾巴开关.exp3",
+				"File": "expressions/尾巴开关.exp3.json"
+			},
+			{
+				"Name": "抱尾巴手 开关.exp3",
+				"File": "expressions/抱尾巴手 开关.exp3.json"
+			},
+			{
+				"Name": "无语.exp3",
+				"File": "expressions/无语.exp3.json"
+			},
+			{
+				"Name": "晕晕脸.exp3",
+				"File": "expressions/晕晕脸.exp3.json"
+			},
+			{
+				"Name": "流汗开关.exp3",
+				"File": "expressions/流汗开关.exp3.json"
+			},
+			{
+				"Name": "流泪.exp3",
+				"File": "expressions/流泪.exp3.json"
+			},
+			{
+				"Name": "爱心眼.exp3",
+				"File": "expressions/爱心眼.exp3.json"
+			},
+			{
+				"Name": "猫爪手套 开关.exp3",
+				"File": "expressions/猫爪手套 开关.exp3.json"
+			},
+			{
+				"Name": "生气.exp3",
+				"File": "expressions/生气.exp3.json"
+			},
+			{
+				"Name": "胸贴开关.exp3",
+				"File": "expressions/胸贴开关.exp3.json"
+			},
+			{
+				"Name": "脸红.exp3",
+				"File": "expressions/脸红.exp3.json"
+			},
+			{
+				"Name": "脸黑.exp3",
+				"File": "expressions/脸黑.exp3.json"
+			},
+			{
+				"Name": "跨步开关.exp3",
+				"File": "expressions/跨步开关.exp3.json"
+			},
+			{
+				"Name": "长短发切换.exp3",
+				"File": "expressions/长短发切换.exp3.json"
+			},
+			{
+				"Name": "问号.exp3",
+				"File": "expressions/问号.exp3.json"
+			},
+			{
+				"Name": "露出肉球 手.exp3",
+				"File": "expressions/露出肉球 手.exp3.json"
+			},
+			{
+				"Name": "高光消失.exp3",
+				"File": "expressions/高光消失.exp3.json"
+			}
+		]
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": [
+				"ParamEyeLOpen",
+				"ParamEyeROpen"
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		}
+	]
+}
