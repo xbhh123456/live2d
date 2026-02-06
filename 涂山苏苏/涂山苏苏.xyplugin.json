@@ -1,0 +1,27 @@
+{
+  "TriggerActionData": [
+    {
+      "GiftTriggerActionType": 1,
+      "TriggerCD": 0.0,
+      "ActionName": "》《",
+      "TriggerGiftName": "",
+      "MinMoneyLimit": 1,
+      "MaxMoneyLimit": 100000,
+      "JianZhangType": 1,
+      "Enable": true
+    },
+    {
+      "GiftTriggerActionType": 1,
+      "TriggerCD": 0.0,
+      "ActionName": "》《",
+      "TriggerGiftName": "",
+      "MinMoneyLimit": 1,
+      "MaxMoneyLimit": 1000000,
+      "JianZhangType": 1,
+      "Enable": true
+    }
+  ],
+  "OverrideDropItemDataBase": {
+    "DropItems": []
+  }
+}

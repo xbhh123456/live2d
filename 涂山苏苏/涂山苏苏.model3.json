@@ -1,0 +1,149 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "涂山苏苏.moc3",
+		"Textures": [
+			"涂山苏苏.8192/texture_00.png",
+			"涂山苏苏.8192/texture_01.png"
+		],
+		"Physics": "涂山苏苏.physics3.json",
+		"DisplayInfo": "涂山苏苏.cdi3.json",
+		"Expressions": [
+			{
+				"Name": "0-0.exp3",
+				"File": "expressions/0-0.exp3.json"
+			},
+			{
+				"Name": "@@.exp3",
+				"File": "expressions/@@.exp3.json"
+			},
+			{
+				"Name": "》《.exp3",
+				"File": "expressions/》《.exp3.json"
+			},
+			{
+				"Name": "吐舌头.exp3",
+				"File": "expressions/吐舌头.exp3.json"
+			},
+			{
+				"Name": "哭.exp3",
+				"File": "expressions/哭.exp3.json"
+			},
+			{
+				"Name": "头发-原始-短发.exp3",
+				"File": "expressions/头发-原始-短发.exp3.json"
+			},
+			{
+				"Name": "头发-双马尾.exp3",
+				"File": "expressions/头发-双马尾.exp3.json"
+			},
+			{
+				"Name": "头发-后发.exp3",
+				"File": "expressions/头发-后发.exp3.json"
+			},
+			{
+				"Name": "头发-头纱.exp3",
+				"File": "expressions/头发-头纱.exp3.json"
+			},
+			{
+				"Name": "头发-新发型下半切换.exp3",
+				"File": "expressions/头发-新发型下半切换.exp3.json"
+			},
+			{
+				"Name": "头发-新发型下半开关.exp3",
+				"File": "expressions/头发-新发型下半开关.exp3.json"
+			},
+			{
+				"Name": "头发-新短发.exp3",
+				"File": "expressions/头发-新短发.exp3.json"
+			},
+			{
+				"Name": "头发-直发.exp3",
+				"File": "expressions/头发-直发.exp3.json"
+			},
+			{
+				"Name": "尾巴.exp3",
+				"File": "expressions/尾巴.exp3.json"
+			},
+			{
+				"Name": "撇嘴.exp3",
+				"File": "expressions/撇嘴.exp3.json"
+			},
+			{
+				"Name": "星星眼.exp3",
+				"File": "expressions/星星眼.exp3.json"
+			},
+			{
+				"Name": "流口水嘴.exp3",
+				"File": "expressions/流口水嘴.exp3.json"
+			},
+			{
+				"Name": "流汗.exp3",
+				"File": "expressions/流汗.exp3.json"
+			},
+			{
+				"Name": "爱心.exp3",
+				"File": "expressions/爱心.exp3.json"
+			},
+			{
+				"Name": "爱心眼.exp3",
+				"File": "expressions/爱心眼.exp3.json"
+			},
+			{
+				"Name": "生气.exp3",
+				"File": "expressions/生气.exp3.json"
+			},
+			{
+				"Name": "眼镜-圆框粗.exp3",
+				"File": "expressions/眼镜-圆框粗.exp3.json"
+			},
+			{
+				"Name": "眼镜-圆框细.exp3",
+				"File": "expressions/眼镜-圆框细.exp3.json"
+			},
+			{
+				"Name": "眼镜-大黑框.exp3",
+				"File": "expressions/眼镜-大黑框.exp3.json"
+			},
+			{
+				"Name": "眼镜-小黑框.exp3",
+				"File": "expressions/眼镜-小黑框.exp3.json"
+			},
+			{
+				"Name": "脸红.exp3",
+				"File": "expressions/脸红.exp3.json"
+			},
+			{
+				"Name": "脸黑.exp3",
+				"File": "expressions/脸黑.exp3.json"
+			},
+			{
+				"Name": "萌物.exp3",
+				"File": "expressions/萌物.exp3.json"
+			},
+			{
+				"Name": "萌物头顶.exp3",
+				"File": "expressions/萌物头顶.exp3.json"
+			},
+			{
+				"Name": "话筒.exp3",
+				"File": "expressions/话筒.exp3.json"
+			}
+		]
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": [
+				"ParamEyeLOpen",
+				"ParamEyeROpen"
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		}
+	]
+}

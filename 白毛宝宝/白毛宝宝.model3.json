@@ -1,0 +1,133 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "白毛宝宝.moc3",
+		"Textures": [
+			"白毛宝宝.2048/texture_00.png",
+			"白毛宝宝.2048/texture_01.png",
+			"白毛宝宝.2048/texture_02.png",
+			"白毛宝宝.2048/texture_03.png",
+			"白毛宝宝.2048/texture_04.png"
+		],
+		"Physics": "白毛宝宝.physics3.json",
+		"DisplayInfo": "白毛宝宝.cdi3.json",
+		"Motions": {
+			"Idle": [
+				{
+					"File": "待机动画/1.motion3.json"
+				},
+				{
+					"File": "待机动画/2.motion3.json"
+				},
+				{
+					"File": "待机动画/3.motion3.json"
+				},
+				{
+					"File": "待机动画/4.motion3.json"
+				},
+				{
+					"File": "待机动画/5.motion3.json"
+				},
+				{
+					"File": "待机动画/6.motion3.json"
+				},
+				{
+					"File": "待机动画/7.motion3.json"
+				},
+				{
+					"File": "待机动画/8.motion3.json"
+				},
+				{
+					"File": "待机动画/A2-1.motion3.json"
+				},
+				{
+					"File": "待机动画/A2-2.motion3.json"
+				},
+				{
+					"File": "待机动画/A2-3.motion3.json"
+				}
+			]
+		},
+		"Expressions": [
+			{
+				"Name": "black_face.exp3",
+				"File": "expressions/black_face.exp3.json"
+			},
+			{
+				"Name": "cry.exp3",
+				"File": "expressions/cry.exp3.json"
+			},
+			{
+				"Name": "eye_heart.exp3",
+				"File": "expressions/eye_heart.exp3.json"
+			},
+			{
+				"Name": "hand_1.exp3",
+				"File": "expressions/hand_1.exp3.json"
+			},
+			{
+				"Name": "hand_2.exp3",
+				"File": "expressions/hand_2.exp3.json"
+			},
+			{
+				"Name": "hand_3.exp3",
+				"File": "expressions/hand_3.exp3.json"
+			},
+			{
+				"Name": "hand_all.exp3",
+				"File": "expressions/hand_all.exp3.json"
+			},
+			{
+				"Name": "hand_game.exp3",
+				"File": "expressions/hand_game.exp3.json"
+			},
+			{
+				"Name": "hand_left.exp3",
+				"File": "expressions/hand_left.exp3.json"
+			},
+			{
+				"Name": "hand_right.exp3",
+				"File": "expressions/hand_right.exp3.json"
+			},
+			{
+				"Name": "hide_ear.exp3",
+				"File": "expressions/hide_ear.exp3.json"
+			},
+			{
+				"Name": "hide_tail.exp3",
+				"File": "expressions/hide_tail.exp3.json"
+			},
+			{
+				"Name": "mouth.exp3",
+				"File": "expressions/mouth.exp3.json"
+			},
+			{
+				"Name": "night.exp3",
+				"File": "expressions/night.exp3.json"
+			},
+			{
+				"Name": "night_2.exp3",
+				"File": "expressions/night_2.exp3.json"
+			},
+			{
+				"Name": "shy.exp3",
+				"File": "expressions/shy.exp3.json"
+			}
+		]
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": [
+				"ParamEyeLOpen",
+				"ParamEyeROpen"
+			]
+		}
+	]
+}

@@ -1,0 +1,73 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "109.moc3",
+		"Textures": [
+			"109.8192/texture_00.png",
+			"109.8192/texture_01.png"
+		],
+		"Physics": "109.physics3.json",
+		"DisplayInfo": "109.cdi3.json",
+		"Expressions": [
+			{
+				"Name": "动作-兔子话筒1.exp3",
+				"File": "expressions/动作-兔子话筒1.exp3.json"
+			},
+			{
+				"Name": "动作-兔子话筒2.exp3",
+				"File": "expressions/动作-兔子话筒2.exp3.json"
+			},
+			{
+				"Name": "动作-拿手杖.exp3",
+				"File": "expressions/动作-拿手杖.exp3.json"
+			},
+			{
+				"Name": "变q.exp3",
+				"File": "expressions/变q.exp3.json"
+			},
+			{
+				"Name": "表情-委屈.exp3",
+				"File": "expressions/表情-委屈.exp3.json"
+			},
+			{
+				"Name": "表情-星星眼.exp3",
+				"File": "expressions/表情-星星眼.exp3.json"
+			},
+			{
+				"Name": "表情-流口水.exp3",
+				"File": "expressions/表情-流口水.exp3.json"
+			},
+			{
+				"Name": "表情-爱心眼.exp3",
+				"File": "expressions/表情-爱心眼.exp3.json"
+			},
+			{
+				"Name": "表情-脸红.exp3",
+				"File": "expressions/表情-脸红.exp3.json"
+			},
+			{
+				"Name": "表情-蝴蝶（眼睛.exp3",
+				"File": "expressions/表情-蝴蝶（眼睛.exp3.json"
+			},
+			{
+				"Name": "飞头.exp3",
+				"File": "expressions/飞头.exp3.json"
+			}
+		]
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": [
+				"ParamEyeLOpen",
+				"ParamEyeROpen"
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		}
+	]
+}
