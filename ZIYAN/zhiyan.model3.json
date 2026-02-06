@@ -1,0 +1,75 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "zhiyan.moc3",
+		"Textures": [
+			"zhiyan.4096/texture_00.png",
+			"zhiyan.4096/texture_01.png",
+			"zhiyan.4096/texture_02.png",
+			"zhiyan.4096/texture_03.png"
+		],
+		"Physics": "zhiyan.physics3.json",
+		"DisplayInfo": "zhiyan.cdi3.json",
+		"Motions": {
+			"Idle": [
+				{
+					"File": "motions/idle.motion3.json"
+				}
+			]
+		},
+		"Expressions": [
+			{
+				"Name": "口水嘴.exp3",
+				"File": "expressions/口水嘴.exp3.json"
+			},
+			{
+				"Name": "嘴-3.exp3",
+				"File": "expressions/嘴-3.exp3.json"
+			},
+			{
+				"Name": "星星眼.exp3",
+				"File": "expressions/星星眼.exp3.json"
+			},
+			{
+				"Name": "流汗.exp3",
+				"File": "expressions/流汗.exp3.json"
+			},
+			{
+				"Name": "爱心眼.exp3",
+				"File": "expressions/爱心眼.exp3.json"
+			},
+			{
+				"Name": "竖瞳-消失.exp3",
+				"File": "expressions/竖瞳-消失.exp3.json"
+			},
+			{
+				"Name": "脸红.exp3",
+				"File": "expressions/脸红.exp3.json"
+			},
+			{
+				"Name": "黑化.exp3",
+				"File": "expressions/黑化.exp3.json"
+			},
+			{
+				"Name": "黑眼球.exp3",
+				"File": "expressions/黑眼球.exp3.json"
+			},
+			{
+				"Name": "鼓气嘴.exp3",
+				"File": "expressions/鼓气嘴.exp3.json"
+			}
+		]
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		}
+	]
+}

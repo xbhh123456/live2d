@@ -1,0 +1,129 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "shasha2.moc3",
+		"Textures": [
+			"shasha2.8192/texture_00.png"
+		],
+		"Physics": "shasha2.physics3.json",
+		"DisplayInfo": "shasha2.cdi3.json",
+		"Motions": {
+			"Idle": [
+				{
+					"File": "motions/new scene.motion3.json"
+				},
+				{
+					"File": "motions/new scene2.motion3.json"
+				},
+				{
+					"File": "motions/Scene1.motion3.json"
+				}
+			]
+		},
+		"Expressions": [
+			{
+				"Name": "030.exp3",
+				"File": "expressions/030.exp3.json"
+			},
+			{
+				"Name": "1  1.exp3",
+				"File": "expressions/1  1.exp3.json"
+			},
+			{
+				"Name": "》《.exp3",
+				"File": "expressions/》《.exp3.json"
+			},
+			{
+				"Name": "冒星.exp3",
+				"File": "expressions/冒星.exp3.json"
+			},
+			{
+				"Name": "冒星星.exp3",
+				"File": "expressions/冒星星.exp3.json"
+			},
+			{
+				"Name": "凶.exp3",
+				"File": "expressions/凶.exp3.json"
+			},
+			{
+				"Name": "危.exp3",
+				"File": "expressions/危.exp3.json"
+			},
+			{
+				"Name": "吐舌.exp3",
+				"File": "expressions/吐舌.exp3.json"
+			},
+			{
+				"Name": "哭.exp3",
+				"File": "expressions/哭.exp3.json"
+			},
+			{
+				"Name": "抱鲨鱼.exp3",
+				"File": "expressions/抱鲨鱼.exp3.json"
+			},
+			{
+				"Name": "拿板子.exp3",
+				"File": "expressions/拿板子.exp3.json"
+			},
+			{
+				"Name": "换刘海.exp3",
+				"File": "expressions/换刘海.exp3.json"
+			},
+			{
+				"Name": "换衣服.exp3",
+				"File": "expressions/换衣服.exp3.json"
+			},
+			{
+				"Name": "握拳.exp3",
+				"File": "expressions/握拳.exp3.json"
+			},
+			{
+				"Name": "撇嘴.exp3",
+				"File": "expressions/撇嘴.exp3.json"
+			},
+			{
+				"Name": "死鱼眼.exp3",
+				"File": "expressions/死鱼眼.exp3.json"
+			},
+			{
+				"Name": "游戏机.exp3",
+				"File": "expressions/游戏机.exp3.json"
+			},
+			{
+				"Name": "红眼.exp3",
+				"File": "expressions/红眼.exp3.json"
+			},
+			{
+				"Name": "脸红.exp3",
+				"File": "expressions/脸红.exp3.json"
+			},
+			{
+				"Name": "问号.exp3",
+				"File": "expressions/问号.exp3.json"
+			},
+			{
+				"Name": "麦克风.exp3",
+				"File": "expressions/麦克风.exp3.json"
+			},
+			{
+				"Name": "黑脸.exp3",
+				"File": "expressions/黑脸.exp3.json"
+			}
+		]
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": [
+				"ParamEyeLOpen",
+				"ParamEyeROpen"
+			]
+		}
+	]
+}
